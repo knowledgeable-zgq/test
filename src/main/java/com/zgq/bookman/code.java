@@ -1,3 +1,6 @@
+/*
+添加注释
+* */
 package com.zgq.bookman;
 import com.baomidou.mybatisplus.generator.AutoGenerator;
 import com.baomidou.mybatisplus.generator.InjectionConfig;
